@@ -9,7 +9,6 @@ Weisen sie den folgenden Beschreibungen ein oder mehrere passende folgende Cooki
 
 ## Aufgabe 1: E-Commerce Webseite: Authentifizierung eines Nutzer
 
-E-commerce Website: User Authentication
 Ein Benutzer meldet sich auf einer E-Commerce-Website an. Die Sitzung wird über ein Cookie aufrechterhalten, das den Authentifizierungs-Token des Benutzers speichert. Das Ziel ist sicherzustellen, dass dieses Sitzungs-Cookie nicht einfach von Angreifern durch clientseitige Skripte oder über unsichere Verbindungen gestohlen oder kompromittiert werden kann. Die Website unterstützt sowohl HTTP als auch HTTPS, wobei alle sensiblen Interaktionen ausschließlich über HTTPS bereitgestellt werden.
 
 ## Aufgabe 2: 'Remember me'-Feature
