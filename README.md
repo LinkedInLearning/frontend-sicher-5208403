@@ -6,7 +6,7 @@ Dies ist das Repository für den **LinkedIn Learning** Kurs `Sichere Front-end-A
 
 ## Anleitung
 
-Dieses Repository hat zwei Ordner für die Übungsdateien. Im Ordner `src´ finden Sie die Ausgangsdateien und im Ordner ´loesungen´ sind beispielhaft die Lösungen zur Problemstellung aufgeführt.
+Dieses Repository hat zwei Ordner für die Übungsdateien. Im Ordner `src` finden Sie die Ausgangsdateien und im Ordner ´loesungen´ sind beispielhaft die Lösungen zur Problemstellung aufgeführt.
 Die Ordnernamen sind passend zu den Videos im Kurs strukturiert. Die Namenskonvention lautet `Kapitel#\_Video#`.
 Beispielsweise finden Sie die Kursdateien zu der in Video `02-07`beschriebene Challenge, unter dem Ordner`src/02_07`.
 Eine beispielhafte Lösung hierfür finden Sie unter dem Ordner `loesungen/02_07`.
